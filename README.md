@@ -29,10 +29,10 @@ Hey, My name is Gaurav Kumar and I am a self-taught developer with about 2 years
 <br>
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravksh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gauravksh1609/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/gaurav_ksh_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://discord.gg/WU4ExPZTc"><img src="https://img.shields.io/badge/discord-%237289d9.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.instagram.com/peytonbechard/"><img src="https://img.shields.io/badge/leetcode-%23f89f1b.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/gauravksh/"><img src="https://img.shields.io/badge/leetcode-%23f89f1b.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
   
 </p>
